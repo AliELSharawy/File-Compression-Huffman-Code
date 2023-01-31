@@ -30,10 +30,10 @@
 
 ## comparison between our program and 7-Zip:
   For SEQ File:
-    My best compression ratio for Lecture file = 0.364 at N = 4
-    7-Zip compression ratio = 117212 / 487944 = 0.24
-  For Lecture File:
-    My best compression ratio for Lecture file = 0.94 at N = 1
+    My best compression ratio for Lecture file = 0.364 at N = 4\
+    7-Zip compression ratio = 117212 / 487944 = 0.24\
+  For Lecture File:\
+    My best compression ratio for Lecture file = 0.94 at N = 1\
     7-Zip compression ratio = 554 / 807 = 0.68
     
   
