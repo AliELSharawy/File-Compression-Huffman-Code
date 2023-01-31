@@ -13,6 +13,7 @@
   - To use it for decompressing an input file, the following be called: 
         java -jar HuffmanRunner.jar d absolute_path_to_input_file
     where d means decompressing the file.
+    
     ![how to run jar](https://user-images.githubusercontent.com/95590176/215638049-da018822-be91-4f71-bc99-e9128f7c4fc6.jpg)
 
     
