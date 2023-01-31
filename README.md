@@ -8,10 +8,12 @@
 ## How to run Jar:
   - single runnable jar is used for both compression and decompression.
   - To use jar for compressing an input file, the following will be called:
-        java -jar huffman_<id>.jar c absolute_path_to_input_file n
+        java -jar HuffmanRunner.jar c absolute_path_to_input_file n
     where c means compressing the file and n is the number of bytes that will be considered together.
   - To use it for decompressing an input file, the following be called: 
-        java -jar huffman_<id>.jar d absolute_path_to_input_file
+        java -jar HuffmanRunner.jar d absolute_path_to_input_file
     where d means decompressing the file.
+    ![how to run jar](https://user-images.githubusercontent.com/95590176/215638049-da018822-be91-4f71-bc99-e9128f7c4fc6.jpg)
+
     
   
